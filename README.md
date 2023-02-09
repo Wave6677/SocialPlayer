@@ -9,7 +9,7 @@ SocialPlayer is currently unreleased. It is planned to be on F-Droid.
 
 ## Planned Features
 
-Playback music from these sources:
+#### Playback music from these sources:
 * Local Files
 * Beatbump (YouTube Music)
 * Invidious & Piped (YouTube)
@@ -34,6 +34,8 @@ Playback music from these sources:
 *I don't actually know if this is possible lmao
 
 If you want this project to be reality faster, please consider donating to me so I don't have to work as much to eat! :)
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3HCZ12)
 
-Spotify may not work without a premium account. 
+Streaming directly from Spotify may not work without a premium account, as it violates their TOS. However 99.9% of songs should very easily be able to be converted to YT sources.
