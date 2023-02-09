@@ -17,19 +17,19 @@ Playback music from these sources:
 * SoundCloud (Through the NewPipe Extractor)
 * BandCamp (Through the NewPipe Extractor)
 
-Material You Support
-Cross-Provider Playlist Conversion (For song available on multiple providers.)
-Cross-Provider Local Playlists (Example: Use SoundCloud and Spotify songs in the same playlist)
-Gesture Based Library Navigation
-CarBar integration
-Simple and Advanced Set-Up (Simple uses predefined instances and variables for less technically inclined folks)
-Offline Music Support with Specific Providers
-History & Listen Time Tracking for Wrapped-esqe End-of-Year Music Recap
-Synchronized Lyrics (Can be saved Offline)
-Save Specific Artists and YT Channels as Podcasts
-OPTIONAL Discord RPC integration (May make a seperate fork for this)
-Some sort of Webhook integration to show what you're listening to on your own website*
-Local AI Vocal Removal for on the go Karaoke*
+#### Material You Support
+#### Cross-Provider Playlist Conversion (For song available on multiple providers.)
+#### Cross-Provider Local Playlists (Example: Use SoundCloud and Spotify songs in the same playlist)
+#### Gesture Based Library Navigation
+#### CarBar integration
+#### Simple and Advanced Set-Up (Simple uses predefined instances and variables for less technically inclined folks)
+#### Offline Music Support with Specific Providers
+#### History & Listen Time Tracking for Wrapped-esqe End-of-Year Music Recap
+#### Synchronized Lyrics (Can be saved Offline)
+#### Save Specific Artists and YT Channels as Podcasts
+#### OPTIONAL Discord RPC integration (May make a seperate fork for this)
+#### Some sort of Webhook integration to show what you're listening to on your own website*
+#### Local AI Vocal Removal for on the go Karaoke*
 
 *I don't actually know if this is possible lmao
 
