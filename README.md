@@ -33,6 +33,8 @@ SocialPlayer is currently unreleased. It is planned to be on F-Droid.
 
 *I don't actually know if this is possible lmao
 
+## Misc other stuff
+
 If you want this project to be reality faster, please consider donating to me so I don't have to work as much to eat! :)
 
 
